@@ -15,4 +15,5 @@ http://localhost/
 
 ## Documentation
 
-http://localhost/swagger-ui.html#/place-resource
+Swagger: http://localhost/swagger-ui.html#/place-resource
+Postman: https://www.getpostman.com/collections/6c99b2f0757b7e259a50
